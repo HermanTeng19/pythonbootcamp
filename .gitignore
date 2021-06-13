@@ -1,0 +1,21 @@
+# Byte-compiled
+__pycache__
+# Image-file
+*.png
+
+# IDE configuration
+.idea/
+.ipynb_checkpoints/
+.vscode/
+
+# Data files
+df1
+df2
+df3
+2011*
+2014*
+*.csv
+Ecommerce Customers
+Classified Data
+KNN_Project_Data
+College_Data
