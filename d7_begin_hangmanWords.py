@@ -25,3 +25,11 @@ word_list = [
     'chief',
     'petey'
 ]
+
+
+if __name__ == "__main__":
+    for word in word_list:
+        print(word)
+
+
+
