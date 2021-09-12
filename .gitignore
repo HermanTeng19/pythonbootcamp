@@ -2,6 +2,7 @@
 __pycache__
 # Image-file
 *.png
+*.jpg
 
 # IDE configuration
 .idea/
