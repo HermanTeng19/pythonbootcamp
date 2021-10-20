@@ -3,6 +3,7 @@ __pycache__
 # Image-file
 *.png
 *.jpg
+*.gif
 
 # IDE configuration
 .idea/
